@@ -37,23 +37,23 @@ Au cours de ce Hands-On, nous allons utiliser une marque fictive d'équipements 
 
 
 ## Objectifs d'apprentissage
-- Visualiser le profil temps réel et le graph d'identité dans la CDP Adobe
-- Configurer un parcours client avec un message personalisé 
+- Visualiser le profil temps réel et la reconciliation d'identités dans la CDP Adobe
+- Configurer un parcours client avec un message personnalisé 
 - Créer un segment utilisant les scores calculés par les services d'IA de la CDP Adobe
 - Activer ce segment vers Adobe Campaign V8 et les réseaux sociaux
 
 
 ## Prérequis
-- Un navigateur web **ouvert en mode incognito**, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le lab avec celui de votre entreprise. 
+- Un navigateur web **ouvert en mode incognito**, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le Hands-On avec celui de votre entreprise. 
 - Les logins et mots de passe pour vous connecter à l'environnement de démo.
 
 
 
 ## Exercices
 
-[Acquisition](./ca-lab1-acquisition.md): Naviguer sur le site internet de demo et générer des données pour ensuite les visualiser dans Adobe Experience Platform.
+[Acquisition](./ca-lab1-acquisition.md): Naviguer sur le site internet de démo et générer des données pour ensuite les visualiser dans la CDP Adobe.
 
-[Conversion](./ca-lab1-conversion.md): Configurer le message personalisé lors de l'abandon d'un panier sur le site e-commerce.
+[Conversion](./ca-lab1-conversion.md): Configurer le message personnalisé lors de l'abandon d'un panier sur le site e-commerce.
 
 [Cross Sell](./ca-lab1-cross-sell.md): Créer une audience enrichie et l'activer via le catalogue des destinations.
 
