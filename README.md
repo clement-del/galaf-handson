@@ -36,16 +36,16 @@ Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sporti
 - **Le cross sell**. Exploitons les capacités d'intelligence artificielle de la Adobe Experience Platform pour calculer une audience qui sera la plus à même d'acheter un accessoire de sport extérieur au cours des 3 prochaines semaines en nous basant sur l'analyse des données comportementales de nos précèdents clients. Partageons ensuite cette audience à Snapchat et vers Adobe Campaign et peaufiner notre ciblage (règles de pression, gestion de la deliverabilité...) 
 
 
-## Objectifs d'apprentissages
-- Visualiser le profil temps réel et le graph d'identité dans Adobe Experience Platform
+## Objectifs d'apprentissage
+- Visualiser le profil temps réel et le graph d'identité dans la CDP Adobe
 - Configurer un parcours client avec un message personalisé 
-- Créer un segment utilisant les scores calculéss par les services intelligents de Adobe Experience Platform
-- Activer ce segment vers Adobe Campaign et les réseaux sociaux
+- Créer un segment utilisant les scores calculés par les services d'IA de la CDP Adobe
+- Activer ce segment vers Adobe Campaign V8 et les réseaux sociaux
 
 
 ## Prérequis
 - Un navigateur web **ouvert en mode incognito**, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le lab avec celui de votre entreprise. 
-- Les logins et mots de passe pour vous connecter à l'environnement de demo.
+- Les logins et mots de passe pour vous connecter à l'environnement de démo.
 
 
 
