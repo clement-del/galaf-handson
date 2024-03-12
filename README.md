@@ -16,7 +16,7 @@
 
 # Lab 1 - Création d'un parcours avec Adobe Campaign augmenté
 
-Adobe Campaign s'utilise conjointement avec Adobe Experience Platform (AEP) pour enrichir l'expérience client avec un ensemble de fonctionnalités additionnelles. Vous allez ainsi pouvoir exploiter :
+Adobe Campaign s'utilise conjointement avec la CDP Adobe pour enrichir l'expérience client avec un ensemble de fonctionnalités additionnelles. Vous allez ainsi pouvoir exploiter :
 
 - La collecte de données  en temps réel, au plus proche des utilisateurs et les segmenter à la volée en fonction de leurs comportements online, très utile pour personaliser le contenus sur les propriétés digitales en fonction de leur appétences.
 - Un  orchestrateur de parcours client pour réagir en temps réel à des évènements générés par vos utilisateurs, et déterminer le meilleur itinéraire pour vos contacts. 
