@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.galerieslafayette.com/ggl-front-assets/img/logo.d73c2059.svg" />
+<img src="https://ibb.co/bbSHPTB" />
 </p>
 
 
