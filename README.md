@@ -18,16 +18,16 @@
 
 Adobe Campaign s'utilise conjointement avec la CDP Adobe pour enrichir l'expérience client avec un ensemble de fonctionnalités additionnelles. Vous allez ainsi pouvoir exploiter :
 
-- La collecte de données  en temps réel, au plus proche des utilisateurs et les segmenter à la volée en fonction de leurs comportements online, très utile pour personaliser le contenus sur les propriétés digitales en fonction de leur appétences.
-- Un  orchestrateur de parcours client pour réagir en temps réel à des évènements générés par vos utilisateurs, et déterminer le meilleur itinéraire pour vos contacts. 
+- La collecte de données en temps réel, au plus proche des utilisateurs et les segmenter à la volée en fonction de leurs comportements online, très utile pour personaliser le contenu sur les propriétés digitales en fonction de leurs appétences
+- Un orchestrateur de parcours client individuels pour réagir en temps réel à des évènements générés par vos utilisateurs, et déterminer la meilleure expérience pour vos contacts. 
 - Des modèles d'intelligence artificielle pour scorer vos contacts et déterminer leur propension à acheter un produit, ou leur propension à quitter les services de votre marque pour la concurrence. 
-- Un vaste catalogue de destination pour activer vos audiences sur les canaux de votre choix: réseaux sociaux, email marketing, search & display, site web, CRM etc..
+- Un vaste catalogue de destination pour activer vos audiences sur les canaux de votre choix: réseaux sociaux, email marketing, search & display, site web, CRM, etc..
 - Appliquer des règles de gouvernance de la donnée et vous assurer que les données de vos utilisateurs soient uniquement utilisées à bon escient, et éviter tout risque de partage malencontreux vers un tiers, ou une utilisation de la donnée client qui n'a pas été consentie par votre contact. 
 
 
 ---
 
-Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sportif - intitulée **Luma** - pour illustrer ces fonctionnalités au travers d'un parcous client composé de 3 chapitres: 
+Au cours de ce lab, nous allons utiliser une marque fictive d'équipements sportifs - intitulée **Luma** - pour illustrer ces fonctionnalités au travers d'un parcours client composé de 3 chapitres: 
 
 - **L'acquisition de nouvelles données clients** depuis le site web Luma. Grace a la collecte en temps réel, nous allons récolter les interactions des visiteurs, même anonymes, et personnaliser le site web en temps réel en fonction de leurs comportements de navigation. Lorsque un utilisateur crééra son compte, son comportement en tant que visiteur anonyme sera automatiquement rattaché à son profil connu et complétera la vision 360° dans Adobe Experience Platform et dans Adobe Campaign. 
 
