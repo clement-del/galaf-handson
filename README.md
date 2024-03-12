@@ -27,13 +27,13 @@ Adobe Campaign s'utilise conjointement avec la CDP Adobe pour enrichir l'expéri
 
 ---
 
-Au cours de ce lab, nous allons utiliser une marque fictive d'équipements sportifs - intitulée **Luma** - pour illustrer ces fonctionnalités au travers d'un parcours client composé de 3 chapitres: 
+Au cours de ce Hands-On, nous allons utiliser une marque fictive d'équipements sportifs - intitulée **Luma** - pour illustrer ces fonctionnalités au travers d'un parcours client composé de 3 chapitres: 
 
-- **L'acquisition de nouvelles données clients** depuis le site web Luma. Grace a la collecte en temps réel, nous allons récolter les interactions des visiteurs, même anonymes, et personnaliser le site web en temps réel en fonction de leurs comportements de navigation. Lorsque un utilisateur crééra son compte, son comportement en tant que visiteur anonyme sera automatiquement rattaché à son profil connu et complétera la vision 360° dans Adobe Experience Platform et dans Adobe Campaign. 
+- **L'acquisition de nouvelles données clients** depuis le site web Luma. Grace à la collecte en temps réel, nous allons récolter les interactions des visiteurs, même anonymes, et personnaliser le site web en temps réel en fonction de leurs comportements de navigation. Lorsqu'un utilisateur crééra son compte, son comportement en tant que visiteur anonyme sera automatiquement rattaché à son profil connu et complétera la vision 360° dans la CDP Adobe et dans Adobe Campaign V8. 
 
-- **La conversion et l'abandon de panier**. En exploitant le moteur d'orchestration, nous allons pouvoir définir des messages personalisés à chacune des étapes du process de paiement en ligne. De l'ajout de produit dans un panier, à la finalisation du paiment, nous pouvons interagir à travers des communication personalisés avec nos futurs clients, et également les recibler si ils ne terminent pas le processus d'achat. Pour le routage des messages, faisons confiance à Adobe Campaign !
+- **La conversion et l'abandon de panier**. En exploitant le moteur d'orchestration, nous allons pouvoir définir des messages personalisés à chacune des étapes du process de paiement en ligne. De l'ajout de produit dans un panier, à la finalisation du paiement, nous pouvons interagir à travers des communications personnalisées avec nos futurs clients, et également les recibler s'ils ne terminent pas le processus d'achat. Pour le routage des messages, faisons confiance à Adobe Campaign V8 !
 
-- **Le cross sell**. Exploitons les capacités d'intelligence artificielle de la Adobe Experience Platform pour calculer une audience qui sera la plus à même d'acheter un accessoire de sport extérieur au cours des 3 prochaines semaines en nous basant sur l'analyse des données comportementales de nos précèdents clients. Partageons ensuite cette audience à Snapchat et vers Adobe Campaign et peaufiner notre ciblage (règles de pression, gestion de la deliverabilité...) 
+- **Le cross sell**. Exploitons les capacités d'IA de la CDP Adobe pour calculer l'audience qui sera la plus à même d'acheter un accessoire de sport extérieur au cours des 3 prochaines semaines en nous basant sur l'analyse des données comportementales de nos précèdents clients. Partageons ensuite cette audience vers Snapchat puis Adobe Campaign V8
 
 
 ## Objectifs d'apprentissage
