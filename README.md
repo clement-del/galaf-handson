@@ -8,7 +8,7 @@
 <h1 align="center">Lien vers le lab <URL GALAF></h1>
 <br /><br />
 <p align="center">
-<img src="https://user-images.githubusercontent.com/40355195/223067996-4e938f6e-5dbf-4c2f-9e61-3e8aa1831fa5.png" />
+
 </p>
 </div>
 
